@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.11de40a9.chunk.css",
-    "main.js": "./static/js/main.8b6703d2.chunk.js",
-    "main.js.map": "./static/js/main.8b6703d2.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.73e60b84.js",
-    "runtime-main.js.map": "./static/js/runtime-main.73e60b84.js.map",
-    "static/js/2.db5bf9ea.chunk.js": "./static/js/2.db5bf9ea.chunk.js",
-    "static/js/2.db5bf9ea.chunk.js.map": "./static/js/2.db5bf9ea.chunk.js.map",
-    "static/js/3.952c8899.chunk.js": "./static/js/3.952c8899.chunk.js",
-    "static/js/3.952c8899.chunk.js.map": "./static/js/3.952c8899.chunk.js.map",
+    "main.css": "./static/css/main.f0245800.chunk.css",
+    "main.js": "./static/js/main.8a6c7a1d.chunk.js",
+    "main.js.map": "./static/js/main.8a6c7a1d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0b7113ac.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0b7113ac.js.map",
+    "static/js/2.dcfc1762.chunk.js": "./static/js/2.dcfc1762.chunk.js",
+    "static/js/2.dcfc1762.chunk.js.map": "./static/js/2.dcfc1762.chunk.js.map",
+    "static/js/3.8432bead.chunk.js": "./static/js/3.8432bead.chunk.js",
+    "static/js/3.8432bead.chunk.js.map": "./static/js/3.8432bead.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.11de40a9.chunk.css.map": "./static/css/main.11de40a9.chunk.css.map",
-    "static/js/2.db5bf9ea.chunk.js.LICENSE.txt": "./static/js/2.db5bf9ea.chunk.js.LICENSE.txt",
+    "static/css/main.f0245800.chunk.css.map": "./static/css/main.f0245800.chunk.css.map",
+    "static/js/2.dcfc1762.chunk.js.LICENSE.txt": "./static/js/2.dcfc1762.chunk.js.LICENSE.txt",
     "static/media/1.2eab9641.png": "./static/media/1.2eab9641.png",
     "static/media/1.6d663622.png": "./static/media/1.6d663622.png",
     "static/media/10.6a0dc85a.png": "./static/media/10.6a0dc85a.png",
@@ -45,6 +45,8 @@
     "static/media/NAGŁÓWEK3.eeb1ca50.jpg": "./static/media/NAGŁÓWEK3.eeb1ca50.jpg",
     "static/media/NAGŁÓWEK4.661ad0e1.jpg": "./static/media/NAGŁÓWEK4.661ad0e1.jpg",
     "static/media/NAGŁÓWEK5.cf538a0c.jpg": "./static/media/NAGŁÓWEK5.cf538a0c.jpg",
+    "static/media/asenizacja.f73843f0.JPG": "./static/media/asenizacja.f73843f0.JPG",
+    "static/media/contact.776eb520.png": "./static/media/contact.776eb520.png",
     "static/media/daf.3f22a2ee.png": "./static/media/daf.3f22a2ee.png",
     "static/media/dobrowolski.bae9b981.PNG": "./static/media/dobrowolski.bae9b981.PNG",
     "static/media/hakowiec.7ce2a664.jpg": "./static/media/hakowiec.7ce2a664.jpg",
@@ -62,9 +64,9 @@
     "static/media/zamiatarka1.30f25289.jpg": "./static/media/zamiatarka1.30f25289.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.73e60b84.js",
-    "static/js/2.db5bf9ea.chunk.js",
-    "static/css/main.11de40a9.chunk.css",
-    "static/js/main.8b6703d2.chunk.js"
+    "static/js/runtime-main.0b7113ac.js",
+    "static/js/2.dcfc1762.chunk.js",
+    "static/css/main.f0245800.chunk.css",
+    "static/js/main.8a6c7a1d.chunk.js"
   ]
 }
