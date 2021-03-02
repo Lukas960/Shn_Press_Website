@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shn_Press_Website/static/css/main.f0245800.chunk.css",
-    "main.js": "/Shn_Press_Website/static/js/main.cc0b10e5.chunk.js",
-    "main.js.map": "/Shn_Press_Website/static/js/main.cc0b10e5.chunk.js.map",
+    "main.js": "/Shn_Press_Website/static/js/main.caa8b8e8.chunk.js",
+    "main.js.map": "/Shn_Press_Website/static/js/main.caa8b8e8.chunk.js.map",
     "runtime-main.js": "/Shn_Press_Website/static/js/runtime-main.4eda62e0.js",
     "runtime-main.js.map": "/Shn_Press_Website/static/js/runtime-main.4eda62e0.js.map",
     "static/js/2.5081eb62.chunk.js": "/Shn_Press_Website/static/js/2.5081eb62.chunk.js",
@@ -67,6 +67,6 @@
     "static/js/runtime-main.4eda62e0.js",
     "static/js/2.5081eb62.chunk.js",
     "static/css/main.f0245800.chunk.css",
-    "static/js/main.cc0b10e5.chunk.js"
+    "static/js/main.caa8b8e8.chunk.js"
   ]
 }
