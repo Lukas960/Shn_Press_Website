@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shn_Press_Website/static/css/main.f0245800.chunk.css",
+    "main.css": "/Shn_Press_Website/static/css/main.e68e8c53.chunk.css",
     "main.js": "/Shn_Press_Website/static/js/main.e641d478.chunk.js",
     "main.js.map": "/Shn_Press_Website/static/js/main.e641d478.chunk.js.map",
     "runtime-main.js": "/Shn_Press_Website/static/js/runtime-main.4eda62e0.js",
@@ -10,7 +10,7 @@
     "static/js/3.8432bead.chunk.js": "/Shn_Press_Website/static/js/3.8432bead.chunk.js",
     "static/js/3.8432bead.chunk.js.map": "/Shn_Press_Website/static/js/3.8432bead.chunk.js.map",
     "index.html": "/Shn_Press_Website/index.html",
-    "static/css/main.f0245800.chunk.css.map": "/Shn_Press_Website/static/css/main.f0245800.chunk.css.map",
+    "static/css/main.e68e8c53.chunk.css.map": "/Shn_Press_Website/static/css/main.e68e8c53.chunk.css.map",
     "static/js/2.5081eb62.chunk.js.LICENSE.txt": "/Shn_Press_Website/static/js/2.5081eb62.chunk.js.LICENSE.txt",
     "static/media/1.2eab9641.png": "/Shn_Press_Website/static/media/1.2eab9641.png",
     "static/media/1.6d663622.png": "/Shn_Press_Website/static/media/1.6d663622.png",
@@ -66,7 +66,7 @@
   "entrypoints": [
     "static/js/runtime-main.4eda62e0.js",
     "static/js/2.5081eb62.chunk.js",
-    "static/css/main.f0245800.chunk.css",
+    "static/css/main.e68e8c53.chunk.css",
     "static/js/main.e641d478.chunk.js"
   ]
 }
