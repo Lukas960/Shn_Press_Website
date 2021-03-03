@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shn_Press_Website/static/css/main.e68e8c53.chunk.css",
-    "main.js": "/Shn_Press_Website/static/js/main.e641d478.chunk.js",
-    "main.js.map": "/Shn_Press_Website/static/js/main.e641d478.chunk.js.map",
+    "main.js": "/Shn_Press_Website/static/js/main.6470fbbe.chunk.js",
+    "main.js.map": "/Shn_Press_Website/static/js/main.6470fbbe.chunk.js.map",
     "runtime-main.js": "/Shn_Press_Website/static/js/runtime-main.4eda62e0.js",
     "runtime-main.js.map": "/Shn_Press_Website/static/js/runtime-main.4eda62e0.js.map",
     "static/js/2.5081eb62.chunk.js": "/Shn_Press_Website/static/js/2.5081eb62.chunk.js",
@@ -41,10 +41,11 @@
     "static/media/8.7aa51c1d.png": "/Shn_Press_Website/static/media/8.7aa51c1d.png",
     "static/media/9.35d6082b.png": "/Shn_Press_Website/static/media/9.35d6082b.png",
     "static/media/9.3786858c.png": "/Shn_Press_Website/static/media/9.3786858c.png",
-    "static/media/NAGŁÓWEK2.2f04ea83.jpg": "/Shn_Press_Website/static/media/NAGŁÓWEK2.2f04ea83.jpg",
+    "static/media/NAGŁÓWEK1.a8b02253.jpg": "/Shn_Press_Website/static/media/NAGŁÓWEK1.a8b02253.jpg",
     "static/media/NAGŁÓWEK3.eeb1ca50.jpg": "/Shn_Press_Website/static/media/NAGŁÓWEK3.eeb1ca50.jpg",
     "static/media/NAGŁÓWEK4.661ad0e1.jpg": "/Shn_Press_Website/static/media/NAGŁÓWEK4.661ad0e1.jpg",
     "static/media/NAGŁÓWEK5.cf538a0c.jpg": "/Shn_Press_Website/static/media/NAGŁÓWEK5.cf538a0c.jpg",
+    "static/media/Przechwytywanie.f11b4f98.PNG": "/Shn_Press_Website/static/media/Przechwytywanie.f11b4f98.PNG",
     "static/media/asenizacja.f73843f0.JPG": "/Shn_Press_Website/static/media/asenizacja.f73843f0.JPG",
     "static/media/contact.776eb520.png": "/Shn_Press_Website/static/media/contact.776eb520.png",
     "static/media/daf.3f22a2ee.png": "/Shn_Press_Website/static/media/daf.3f22a2ee.png",
@@ -67,6 +68,6 @@
     "static/js/runtime-main.4eda62e0.js",
     "static/js/2.5081eb62.chunk.js",
     "static/css/main.e68e8c53.chunk.css",
-    "static/js/main.e641d478.chunk.js"
+    "static/js/main.6470fbbe.chunk.js"
   ]
 }
