@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Shn_Press_Website/static/css/main.a10d3355.chunk.css",
-    "main.js": "/Shn_Press_Website/static/js/main.fe8a4f28.chunk.js",
-    "main.js.map": "/Shn_Press_Website/static/js/main.fe8a4f28.chunk.js.map",
-    "runtime-main.js": "/Shn_Press_Website/static/js/runtime-main.866f648e.js",
-    "runtime-main.js.map": "/Shn_Press_Website/static/js/runtime-main.866f648e.js.map",
+    "main.css": "/Shn_Press_Website/static/css/main.52e0d8a7.chunk.css",
+    "main.js": "/Shn_Press_Website/static/js/main.daa9db55.chunk.js",
+    "main.js.map": "/Shn_Press_Website/static/js/main.daa9db55.chunk.js.map",
+    "runtime-main.js": "/Shn_Press_Website/static/js/runtime-main.3583ad23.js",
+    "runtime-main.js.map": "/Shn_Press_Website/static/js/runtime-main.3583ad23.js.map",
     "static/css/2.b4057251.chunk.css": "/Shn_Press_Website/static/css/2.b4057251.chunk.css",
-    "static/js/2.0bb1dfde.chunk.js": "/Shn_Press_Website/static/js/2.0bb1dfde.chunk.js",
-    "static/js/2.0bb1dfde.chunk.js.map": "/Shn_Press_Website/static/js/2.0bb1dfde.chunk.js.map",
-    "static/js/3.1cbcbaf8.chunk.js": "/Shn_Press_Website/static/js/3.1cbcbaf8.chunk.js",
-    "static/js/3.1cbcbaf8.chunk.js.map": "/Shn_Press_Website/static/js/3.1cbcbaf8.chunk.js.map",
+    "static/js/2.4ed6d7da.chunk.js": "/Shn_Press_Website/static/js/2.4ed6d7da.chunk.js",
+    "static/js/2.4ed6d7da.chunk.js.map": "/Shn_Press_Website/static/js/2.4ed6d7da.chunk.js.map",
+    "static/js/3.4fd11ae8.chunk.js": "/Shn_Press_Website/static/js/3.4fd11ae8.chunk.js",
+    "static/js/3.4fd11ae8.chunk.js.map": "/Shn_Press_Website/static/js/3.4fd11ae8.chunk.js.map",
     "index.html": "/Shn_Press_Website/index.html",
     "static/css/2.b4057251.chunk.css.map": "/Shn_Press_Website/static/css/2.b4057251.chunk.css.map",
-    "static/css/main.a10d3355.chunk.css.map": "/Shn_Press_Website/static/css/main.a10d3355.chunk.css.map",
-    "static/js/2.0bb1dfde.chunk.js.LICENSE.txt": "/Shn_Press_Website/static/js/2.0bb1dfde.chunk.js.LICENSE.txt",
+    "static/css/main.52e0d8a7.chunk.css.map": "/Shn_Press_Website/static/css/main.52e0d8a7.chunk.css.map",
+    "static/js/2.4ed6d7da.chunk.js.LICENSE.txt": "/Shn_Press_Website/static/js/2.4ed6d7da.chunk.js.LICENSE.txt",
     "static/media/1.2eab9641.png": "/Shn_Press_Website/static/media/1.2eab9641.png",
     "static/media/1.6d663622.png": "/Shn_Press_Website/static/media/1.6d663622.png",
     "static/media/10.6a0dc85a.png": "/Shn_Press_Website/static/media/10.6a0dc85a.png",
@@ -72,10 +72,10 @@
     "static/media/zamiatarka1.30f25289.jpg": "/Shn_Press_Website/static/media/zamiatarka1.30f25289.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.866f648e.js",
+    "static/js/runtime-main.3583ad23.js",
     "static/css/2.b4057251.chunk.css",
-    "static/js/2.0bb1dfde.chunk.js",
-    "static/css/main.a10d3355.chunk.css",
-    "static/js/main.fe8a4f28.chunk.js"
+    "static/js/2.4ed6d7da.chunk.js",
+    "static/css/main.52e0d8a7.chunk.css",
+    "static/js/main.daa9db55.chunk.js"
   ]
 }
